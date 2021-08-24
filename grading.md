@@ -9,7 +9,7 @@ Our goal in teaching this class is to help you learn the material. Our grading p
 
 You will be assessed through the following assignments:
 
-* 26 lecture worksheets: There will be a short worksheet that is due before the start of each discussion session (10:10 AM Tuesdays and Thursdays).
+* ~13 weekly vitamins
 * 6 homework assignments
 * 11 lab assignments
 * 2 midterms
@@ -20,7 +20,7 @@ You will be assessed through the following assignments:
 
 Grades will be assigned using the following weighted components:
 
-* Lecture worksheets: 5%
+* Vitamins: 5%
 * Homeworks: 20%
 * Labs: 15%
 * Midterm 1: 20%
@@ -29,7 +29,7 @@ Grades will be assigned using the following weighted components:
 
 ### Grading criteria
 
-* Lecture worksheets will be graded based on completion/effort. For each question, we’d like you to answer the question or explain where you got stuck: if you do this, you will receive full credit. Your lowest 6 scores will be dropped.
+* Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 10 minutes to complete. Your two lowest vitamin scores will be dropped.
 * Homework will be graded on completion and correctness. No assignment may be dropped, but we will have a slip day policy (see below).
 * Lab assignments will be graded on completion and correctness, but all test cases for autograded questions will be public. Your two lowest lab scores will be dropped.
 * A grading rubric and more details regarding the final project will be released later in the semester.
