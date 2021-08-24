@@ -79,47 +79,47 @@
   description:
   
 - date: Tuesday 10/5/21
-  topic: Uncertainty quantification for GLMs
+  topic: Midterm I
   description:
 
 - date: Thursday 10/7/21
-  topic: Midterm 1    
- 
+  topic: Uncertainty quantification for GLMs 
+  
 - date: Tuesday 10/12/21
-  topic: Causal Inference I, Problems with association
-
+  topic: Nonparametric Methods and Neural Networks
+ 
 - date: Thursday 10/14/21
-  topic: Causal Inference II, Randomized experiments
+  topic: Neural Networks and Interpretability
  
 - date: Tuesday 10/19/21
-  topic: Causal Inference III, Observational studies
- 
+  topic: Causal Inference I
+
 - date: Thursday 10/21/21
-  topic: Causal Inference IV, Instrumental variables
-  
-- date: Tuesday 10/26/21
-  topic: Concentration inequalities
+  topic: Causal Inference II
  
-- date: Thursday 10/28/21
-  topic: Bandits I
+- date: Tuesday 10/26/21
+  topic: Causal Inference III
+ 
+- date: Tuesday 10/28/21
+  topic: Concentration inequalities
   
 - date: Tuesday 11/2/21
-  topic: Bandits II
+  topic: Bandits I
   
 - date: Thursday 11/4/21
-  topic: Nonparametric Methods and Neural Networks
+  topic: Bandits II
 
 - date: Tuesday 11/9/21
-  topic: Neural Networks and Interpretability
+  topic: Reinforcement Learning I
   
 - date: Thursday 11/11/21
-  topic: Midterm 2 Review
+  topic: Holiday
 
 - date: Tuesday 11/16/21
-  topic: Midterm 2
+  topic: Reinforcement Learning II
 
 - date: Thursday 11/18/21
-  topic: Reinforcement Learning
+  topic: Midterm II
  
 - date: Tuesday 11/23/21
   topic: Robustness and generalization
@@ -128,10 +128,10 @@
   topic: Thanksgiving Break
   
 - date: Tuesday 11/30/21
-  topic: Matching Markets and Game Theory
+  topic: Differential Privacy
   
 - date: Thursday 12/2/21 
-  topic: Course Wrap-up
+  topic: Matching Markets and Game Theory / Course Wrap-up
   
 - date: Tuesday 12/7/21
   topic: RRR week
