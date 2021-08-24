@@ -1,6 +1,10 @@
 #  This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
 
+- date: 8/24/2021
+  text: |
+    - Welcome to the Data 102!
+
 # Example
 # - date: 1/16/2018
 #   text: |
