@@ -15,10 +15,10 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: ["readme.md"]
 highlighter: rouge
 
-title: Data 102 Spring 2021
+title: Data 102 Fall 2021
 tagline: Data, Inference, and Decisions
 
-baseurl: '/sp21'
+baseurl: '/fa21'
 
 sass:
   style: compressed
