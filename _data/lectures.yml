@@ -28,308 +28,115 @@
 # for d in days[(days.dayofweek == 1) | (days.dayofweek == 3)]:
 #     print(str(d.month) + "/" + str(d.day) + "/" + str(d.year))
 
-- date: Tuesday 1/19/21
+- date: Thursday 8/26/21
   topic: Course Overview, Making Decisions Under Uncertainty
   description:
-  slides: |
-    - [Fall20 Slides](assets/slides/lecture01.pdf)
-  video: https://www.youtube.com/watch?v=mNFe5_8wp8E&list=PLSEfoRJ1f3UOCQr1LdnyCGQ8pWQWjjHHX&index=1
-  recording: https://piazza.com/class/kjv4lczgzgq1hc?cid=19
   resources: |
     - [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1)
     - (Optional) Discussion by nine commentators [1](https://hdsr.mitpress.mit.edu/pub/djb16hzl?readingCollection=72befc2a), [2](https://hdsr.mitpress.mit.edu/pub/kyzf7fjv?readingCollection=72befc2a), [3](https://hdsr.mitpress.mit.edu/pub/rim3pvdw?readingCollection=72befc2a), [4](https://hdsr.mitpress.mit.edu/pub/pqddq8u5?readingCollection=72befc2a), [5](https://hdsr.mitpress.mit.edu/pub/wiq01ru6?readingCollection=72befc2a), [6](https://hdsr.mitpress.mit.edu/pub/pjebp7io?readingCollection=72befc2a), [7](https://hdsr.mitpress.mit.edu/pub/plto69bh?readingCollection=72befc2a)
     - (Optional) [Dr. AI or: How I Learned to Stop Worrying and Love Economics](https://hdsr.mitpress.mit.edu/pub/2imtstfu?readingCollection=72befc2a)
     - (Optional) [What are the most important statistical ideas of the past 50 years?](https://arxiv.org/pdf/2012.00174)
 
-- date: Thursday 1/21/21
+- date: Tuesday 8/31/21
   topic: Binary Decision-Making
   description: We discuss concepts like TPR, FPR and FDP.
-  slides: |
-    - [Fall20 Slides](assets/slides/lecture02.pdf)
-  video: https://www.youtube.com/watch?v=tGJyOScYlnw&list=PLSEfoRJ1f3UPExXFUtgA65_Hy16hXsl-s
-  recording: https://piazza.com/class/kjv4lczgzgq1hc?cid=19
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion02/lecture2_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion02/lecture2_worksheet_solutions.ipynb)
 
-
-- date: Tuesday 1/26/21
+- date: Thursday 9/2/21
   topic: P-Values and Multiple Hypothesis Testing
   description: We define p-values, introduce the problem of multiple hypothesis testing, and talk about the Bonferroni and Benjamini-Hochberg procedures for addressing it.
-  slides: |
-    - [Fall20 Slides](assets/slides/lecture03.pdf)
-  video: https://www.youtube.com/watch?v=1RsG49iJS4Q&list=PLSEfoRJ1f3UOqAU44c8A4XNEc0BNgwbys
-  recording: https://piazza.com/class/kjv4lczgzgq1hc?cid=19
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion03/lecture3_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion03/lecture3_worksheet_solutions.ipynb)
-    - [Slides](https://docs.google.com/presentation/d/1mAYq3vlQfjeTzWTwb44j2DIMDc4gHpDVhP9G7lRTWBw/edit?usp=sharing)
-  lab: |
-    - [Lab 01](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab01/lab01.ipynb)
-    - [Lab 01 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab01/lab01_solutions.ipynb)
-  homework: |
-    - [HW 01](https://github.com/ds-102/sp21/raw/master/homework/hw01/hw01.zip)
-    - [HW 01 Solutions](https://bcourses.berkeley.edu/courses/1502660/files?preview=79740107)
-
-- date: Thursday 1/28/21
+  
+- date: Tuesday 9/7/21
   topic: Online False Discovery Rate Control & ROC curves
   description: 
-  slides: |
-    - [Fall20 Slides](assets/slides/lecture04.pdf)
-    - [ROC notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=assets/ROC.ipynb)
-  video: https://www.youtube.com/watch?v=X34B2hMcdoY&list=PLSEfoRJ1f3UMTWNFevh15vDOcvv1QIxv3
-  recording: https://piazza.com/class/kjv4lczgzgq1hc?cid=19
-  discussion : |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion04/lecture4_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion04/lecture4_worksheet_solutions.ipynb)
-
-
-- date: Tuesday 2/2/21
+ 
+- date: Thursday 9/9/21
   topic: Frequentist vs. Bayesian Decision-Making
-  slides: |
-    - [Fall20 Slides](assets/slides/lecture05.pdf)
-    - [Spring20 Notes](assets/slides/notes05.pdf)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion05/lecture5_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion05/lecture5_worksheet_solutions.ipynb)
-  video: https://www.youtube.com/watch?v=hEM154cCESA&list=PLSEfoRJ1f3UOtsV2AMetAFVngp1fDCGc8
-  recording: https://piazza.com/class/kjv4lczgzgq1hc?cid=19
-  lab: |
-    - [Lab 02](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab02/lab02.ipynb)
-    - [Lab 02 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab02/lab02_solutions.ipynb)
+  description:
 
 
-- date: Thursday 2/4/21
+- date: Tuesday 9/14/21
   topic: Overview of Bayesian Modeling
-  slides: |
-    - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture06/bayes_intro.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion06/lecture6_worksheet.ipynb)
-  video: https://www.youtube.com/watch?v=QeNHYU030gs&list=PLSEfoRJ1f3UOanm7DlXqOjdJjNM1-YVlH
-  recording: https://piazza.com/class/kjv4lczgzgq1hc?cid=19
+  description:
 
-- date: Tuesday 2/9/21
+- date: Thursday 9/16/21
   topic: Graphical Models
-  slides: |
-    - [Lecture slides](https://data102.org/fa20/assets/lectures/lecture7.pdf)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion07/lecture7_worksheet.ipynb)
-  video: https://www.youtube.com/watch?v=0jJGIAlR6DI&list=PLSEfoRJ1f3UOcSxA5ORZ3RRRiGiQ0DAS5&index=1
-  recording: https://piazza.com/class/kjv4lczgzgq1hc?cid=19
-  lab: |
-    - [Lab 03](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab03/lab03.ipynb)
-    - [Lab 03 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab03/lab03_solutions.ipynb)
-  homework: |
-    - [HW 02](https://github.com/ds-102/sp21/raw/master/homework/hw02/hw02.zip)
-    - [HW 02 Solutions](https://bcourses.berkeley.edu/courses/1502660/files/folder/hw02_sol)
+  description:
 
-- date: Thursday 2/11/21
+- date: Tuesday 9/21/21
   topic: Rejection Sampling and Markov Chains
-  slides: |
-    - [Lecture slides](https://data102.org/fa20/assets/lectures/lecture8.pdf)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion08/lecture8_worksheet.ipynb)
-  video: https://www.youtube.com/watch?v=EBovWQneqnA&list=PLSEfoRJ1f3UNcofRY6RtE_WyQFmioe_ad
+  description:
 
-
-- date: Tuesday 2/16/21
+- date: Thursday 9/23/21
   topic: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
-  slides: |
-    - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture09/gibbs_sampling.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion09/lecture9_worksheet.ipynb)
-  video: https://www.youtube.com/watch?v=R1HuaAiUK_s&list=PLSEfoRJ1f3UPbuV5DK2izCzg3MzoYChkS
-  lab: |
-    - [Lab 04](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab04/lab04.ipynb)
-    - [Lab 04 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab04/lab04_solutions.ipynb)
-
-- date: Thursday 2/18/21
+  description:
+  
+- date: Tuesday 9/28/21
   topic: Regression and GLMs
-  slides: |
-    - [Regression review explainer notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture10/Regression%20review.ipynb)
-    - [Generalized Linear Model notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture10/glms.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion10/lecture10_worksheet.ipynb)
-  video: https://www.youtube.com/watch?v=JKB6ibuge00&list=PLSEfoRJ1f3UNkygyedGqQMslzA5gPd8m9
-  lab:
+  description:
 
-
-- date: Tuesday 2/23/21
+- date: Thursday 9/30/21
   topic: Model checking for GLMs
-  slides: |
-    - [Slides](assets/slides/sp21_lecture11_slides.pdf)
-    - [Demo notebook 1](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture11/01_rf_vs_glm.ipynb)
-    - [Demo notebook 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture11/02_misspecified_glm.ipynb)
-    - [Demo notebook 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture11/03_posterior_predictive_checks.ipynb)
-  video: https://www.youtube.com/watch?v=W3JWBi9768E&list=PLSEfoRJ1f3UOM0Wuv58za78mmDu3j11kF&index=1
-  homework: |
-    - [HW 03](https://github.com/ds-102/sp21/raw/master/homework/hw03/hw03.pdf)
-    - [HW 03 Solutions](https://bcourses.berkeley.edu/courses/1502660/files?preview=79894332)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion11/lecture11_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion11/lecture11_worksheet_solutions.ipynb)
-
-- date: Thursday 2/25/21
+  description:
+  
+- date: Tuesday 10/5/21
   topic: Uncertainty quantification for GLMs
-  slides: |
-    - [Slides](assets/slides/sp21_lecture12_slides.pdf)
-    - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture12/bootstrap.ipynb)
-    - [Whiteboard notes 1](https://github.com/ds-102/sp21/blob/master/lecture/lecture12/uncertainty_notes.pdf)
-    - [Whiteboard notes 2](https://github.com/ds-102/sp21/blob/master/lecture/lecture12/bootstrap_notes.pdf)
-  video: https://www.youtube.com/watch?v=7WNTEekuy0I&list=PLSEfoRJ1f3UPHX_LGvNwaXRtTxMYDt3Ag&index=1
+  description:
 
-- date: Tuesday 3/2/21
+- date: Thursday 10/7/21
   topic: Midterm 1    
-  lab: |
-    - [Lab 05](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab05/lab05.ipynb)
-    - [Lab 05 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab05/lab05_solutions.ipynb)
-  homework: |
-    - [HW 04](https://github.com/ds-102/sp21/blob/master/homework/hw04.zip?raw=true)
-    - [HW 04 Solutions](https://bcourses.berkeley.edu/courses/1502660/files?preview=80119733)
-
-- date: Thursday 3/4/21
+ 
+- date: Tuesday 10/12/21
   topic: Causal Inference I, Problems with association
-  slides : |
-    - [Slides](assets/slides/sp21_lecture13_slides.pdf)
-    - [Whiteboard notes](assets/slides/lecture13_whiteboard_notes.pdf)
-  video: https://www.youtube.com/watch?v=gVP_VYp23l8&list=PLSEfoRJ1f3UPCh6pa2OO9K5osp5iKBHNa&index=1
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion13/lecture13_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion13/lecture13_worksheet_solutions.ipynb)
 
-- date: Tuesday 3/9/21
+- date: Thursday 10/14/21
   topic: Causal Inference II, Randomized experiments
-  slides: |
-    - [Slides](assets/slides/sp21_lecture14_slides.pdf)
-    - [Whiteboard notes](assets/slides/lecture14_whiteboard_notes.pdf)
-  video: https://www.youtube.com/watch?v=AoDU2F39Qp4&list=PLSEfoRJ1f3UMEnFY7e4B1stqbuTC-WdOW
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion14/lecture14_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion14/lecture14_worksheet_solutions.ipynb)
-  lab: |
-    - [Lab 06](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab06/lab06.ipynb)
-    - [Lab 06 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab06/lab06_solutions.ipynb)    
-
-- date: Thursday 3/11/21
+ 
+- date: Tuesday 10/19/21
   topic: Causal Inference III, Observational studies
-  slides: |
-    - [Slides](assets/slides/sp21_lecture15_slides.pdf)
-    - [Whiteboard notes](assets/slides/lecture15_whiteboard_notes.pdf)
-  video: https://www.youtube.com/watch?v=M2B2O9mHzfQ&list=PLSEfoRJ1f3UOSUikVBeoJM2OdPvgPvpQ0&index=1
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion15/lecture15_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion15/lecture15_worksheet_solutions.ipynb)
-
-- date: Tuesday 3/16/21
+ 
+- date: Thursday 10/21/21
   topic: Causal Inference IV, Instrumental variables
-  video: https://www.youtube.com/watch?v=6qEM5cbPUEc&list=PLSEfoRJ1f3UMCaIpDlgXTxDURAX8BIm2E
-  slides: |
-    - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture16/instrumental_variable_notes.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion16/lecture16_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion16/lecture16_worksheet_solutions.ipynb)
-  lab: |
-    - [Lab 07](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab07/lab07.ipynb)
-    - [Lab 07 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab07/lab07_solutions.ipynb)
-  homework: |
-    - [HW 05](https://github.com/ds-102/sp21/blob/master/homework/hw05/hw05.zip?raw=true)
-    - [HW 05 Solutions](https://bcourses.berkeley.edu/courses/1502660/files?preview=80223148)
-
-- date: Thursday 3/18/21
+  
+- date: Tuesday 10/26/21
   topic: Concentration inequalities
-  video: https://www.youtube.com/watch?v=HX8egjGyDEA&list=PLSEfoRJ1f3UNII7JXG049Y7pYPIm0L1qn
-  slides: |
-    - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture17/concentration.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion17/lecture17_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion17/lecture17_worksheet_solutions.ipynb)
-
-- date: Tuesday 3/30/21
+ 
+- date: Thursday 10/28/21
   topic: Bandits I
-  video: https://www.youtube.com/watch?v=r_2eP6nHLQA&list=PLSEfoRJ1f3UOyMzQHW-YziiwF6wd2joFX
-  slides: |
-    - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture18/bandits_notes.ipynb)
-    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture18/MAB_demo.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion18/lecture18_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion18/lecture18_worksheet_solutions.ipynb)
-  lab: |
-    - [Lab 08](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab08/lab08.ipynb)
-    - [Lab 08 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab08/lab08_solutions.ipynb)
-
-- date: Thursday 4/1/21
+  
+- date: Tuesday 11/2/21
   topic: Bandits II
-  video: https://www.youtube.com/watch?v=UjavzmQqFE0&list=PLSEfoRJ1f3UMYszOgsbOxCblmSMHHAdQD&index=1
-  slides: |
-    - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture18/bandits_notes.ipynb)
-    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture18/MAB_demo.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion19/lecture19_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion19/lecture19_worksheet_solutions.ipynb)
-
-- date: Tuesday 4/6/21
+  
+- date: Thursday 11/4/21
   topic: Nonparametric Methods and Neural Networks
-  video: https://www.youtube.com/watch?v=GFJsJMYPBgc&list=PLSEfoRJ1f3UOZysVW125SGwgNWKdFPf0V
-  slides: |
-    - (Required reading) [Statistical Modeling, The Two Cultures, by Leo Breiman](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf)
-    - [Notes on nonparametric methods](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture20/01_nonparametric.ipynb)
-    - [Notes on neural networks and backpropagation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture20/02_NNs_Autodiff_backprop.ipynb)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion20/lecture20_worksheet.ipynb)
-  lab: |
-    - [Lab 09](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab09/lab09.ipynb)
-    - [Lab 09 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab09/lab09_solutions.ipynb)
-  homework: |
-    - [HW 06](https://github.com/ds-102/sp21/raw/master/homework/hw06/hw06.zip)
-    - [HW 06 Solutions](https://bcourses.berkeley.edu/courses/1502660/files/folder/hw06_sol)
 
-- date: Thursday 4/8/21
+- date: Tuesday 11/9/21
   topic: Neural Networks and Interpretability
-  video: https://www.youtube.com/watch?v=mgaohBtnub4&list=PLSEfoRJ1f3UP0w6n_eur2PuMFLiVV99hn
-  slides: |
-    - [Notes on neural networks and backpropagation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture20/02_NNs_Autodiff_backprop.ipynb)
-    - [Interpretability slides (not comprehensive)](https://docs.google.com/presentation/d/1vY7ZDHiH9ISaj6eqIIjMe-AgaNBrxbo3NsjZh3nWVss/edit?usp=sharing)
-    - [Interpretability demo (not comprehensive)](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lecture/lecture20/03_interp_demo.ipynb)
-    - (Optional talk) [Prof. Cynthia Rudin on Explainability](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion21/lecture21_worksheet.ipynb)
-
-- date: Tuesday 4/13/21
+  
+- date: Thursday 11/11/21
   topic: Midterm 2 Review
 
-- date: Thursday 4/15/21
+- date: Tuesday 11/16/21
   topic: Midterm 2
 
-- date: Tuesday 4/20/21
+- date: Thursday 11/18/21
   topic: Reinforcement Learning
-  video: https://www.youtube.com/watch?v=G-YTxyYkjgc&list=PLSEfoRJ1f3UN9mRkj607sljwV19TINZbA
-  slides: |
-    - [Notes](https://data102.org/sp21/assets/slides/notes23.pdf)
-    - [Slides](https://data102.org/sp21/assets/slides/slides23.pdf)
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion23/lecture23_worksheet.ipynb)
-    - [Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion23/lecture23_worksheet_solutions.ipynb)
-  lab: |
-    - [Lab 10](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab10/lab10.ipynb)
-    - [Lab 10 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab10/lab10_solutions.ipynb)
-
-- date: Thursday 4/22/21
+ 
+- date: Tuesday 11/23/21
   topic: Robustness and generalization
-  video: https://www.youtube.com/watch?v=nOGqj3o-Y9I&list=PLSEfoRJ1f3UOm7tG_f3z0IEOxOob1S72i
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion24/lecture24_worksheet.ipynb)
-  homework: |
-    - [HW 07](https://github.com/ds-102/sp21/raw/master/homework/HW7/hw07.zip)
-    - [HW 07 Solutions](https://bcourses.berkeley.edu/courses/1502660/files?preview=80567264)
-    
-- date: Tuesday 4/27/21
-  topic: Differential Privacy
-  video: https://www.youtube.com/watch?v=noqISKgjtlc&list=PLSEfoRJ1f3UONI8JYXNMl51G7l6_0LnHf
-  discussion: |
-    - [Lecture worksheet](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=discussion/discussion25/lecture25_worksheet.ipynb)
-  lab: |
-    - [Lab 11](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab11/lab11.ipynb)
-    - [Lab 11 Solutions](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp21&subPath=lab/lab11/lab11_solutions.ipynb)
-
-- date: Thursday 4/29/21
-  topic: Matching Markets and Game Theory / Course Wrap-up
+  
+- date: Thursday 11/25/21
+  topic: Thanksgiving Break
+  
+- date: Tuesday 11/30/21
+  topic: Matching Markets and Game Theory
+  
+- date: Thursday 12/2/21 
+  topic: Course Wrap-up
+  
+- date: Tuesday 12/7/21
+  topic: RRR week
+ 
+- date: Thursday 12/9/21
+  topic: RRR week
+  
+ 
