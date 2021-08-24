@@ -8,37 +8,30 @@ title: "About this Course"
 
 This course develops the probabilistic foundations of inference in data science. It builds a comprehensive view of the decision-making and modeling life cycle in data science, including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as [STAT 102](https://classes.berkeley.edu/content/2021-spring-stat-c102-001-lec-001).
+This class is listed as [Data 102](https://classes.berkeley.edu/content/2021-fall-data-c102-001-lec-001).
 
 
 ## Announcements
 
-All course announcements will be made on Piazza.
+All course announcements will be made on Ed.
 
 
-## Meeting Times
+## Important Information
 
-The course structure this semester is different from previous semesters as we adapt to remote learning. For changes to grading, see the grading tab.
+**Lecture:** Tuesdays and Thursdays from 2:00 PM to 3:30 PM remote on Zoom. See [Ed posts] for the zoom link
 
-**Lecture:** Each lecture will be released as a playlist of short, 3-15 minute videos totalling about an hour (total length will vary from lecture to lecture), linked to from the main course page. We ask that you view each lecture’s video before the corresponding discussion session. We’ll have Piazza threads for each lecture where you can ask questions.
+**Discussion session:** Wednesdays in-person (virtual sessions might be held). See [Ed posts] for more information on this. 
 
+  * Attendance is highly encouraged but not mandatory. An alternate discussion time slot will be arranged for students with conflicts or time zone issues with the default time if there is a popular demand.
 
-**Discussion session:**
-
-* **When:** Tuesdays and Thursdays from 10:10 AM to 11:00 AM, OR alternate time slot (to be announced)
-* **Where:** Remote instruction over Zoom. See Piazza posts for corresponding Zoom links.
-* **What:** Discussion of the corresponding lecture’s contents (see main page for schedule). Discussion sessions will help you bridge the big ideas in lecture videos with the problem-solving skills you’ll need for the homework.
-  * Every lecture will come with a short worksheet that is due before the start of the discussion session (10:10 am Tuesdays and Thursdays). We’d like you to attempt each problem and either provide your solution, or a short explanation of where you got stuck. You can either fill in your answers in the provided notebook or on paper, and upload your responses to the corresponding Gradescope assignment.
-  * Attendance is highly encouraged but not mandatory. These sessions will be recorded and released the following day. An alternate discussion time slot will be arranged for students with conflicts or time zone issues with the default time.
-
-**Lab:** There will be no lab meetings: we ask that you complete lab assignments on your own time and use office hours to get help from course staff.
+**Lab:** Mondays in-person. You can complete lab assignments on your own time but you highly encouraged to attend lab sessions to work with your classmates and get help from the staff. 
 
 
 <!-- **If you are requesting an extension for a HW or lab assignment (due to either DSP accommodations or other extenuating circumstances), please email any of the GSIs prior to the original deadline date.** Please avoid emailing the professors. -->
 
 ## Office Hours Schedules
 
-Please see [Piazza posts](https://piazza.com/class/kjv4lczgzgq1hc?cid=33) for corresponding Zoom links.
+Please see [Ed posts](tbd) for corresponding Zoom links.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%234285F4&amp;ctz=America%2FLos_Angeles&amp;src=Y19tanUwNDRqN2huZjVvMjBoZGoxNzZranI4c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5&amp;mode=WEEK&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_i6vcnkqpt1pl5rfp8dsqle1kus%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
@@ -63,13 +56,9 @@ While we are working to make this class widely accessible we currently require t
 
 ## Main Instructors
 
-See Piazza posts for Zoom OH links.
-
 {% include instructor_entries.html %}
 
 
 ## TAs
-
-See Piazza posts for corresponding Zoom OH links.
 
 {% include staff_entries.html %}
