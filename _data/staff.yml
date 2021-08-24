@@ -1,8 +1,8 @@
-- email: erika.n.mack@berkeley.edu 
-  image: "assets/staff/erika_mack.jpg"
+- email: alice_cima@berkeley.edu
+  image: "assets/staff/alice_cima.jpg"
   oh_info:
   - "OH: TBA"
-  name: Erika Mack
+  name: Alice Cima
 
 - email: yiwendai99@berkeley.edu 
   image: "assets/staff/ewen_dai.jpg"
@@ -10,14 +10,20 @@
   - "OH: TBA"
   name: Ewen Dai
 
-- email: rroggenkemper@berkeley.edu 
-  image: "assets/staff/ryan_roggenkemper.jpg"
+- email: rdoshi99@berkeley.edu
+  image: "assets/staff/ruhi_doshi.jpg"
   oh_info:
   - "OH: TBA"
-  name: Ryan Roggenkemper
+  name: Ruhi Doshi
 
-- email: xingyu.jin21@berkeley.edu 
-  image: "assets/staff/xingyu_jin.jpg"
+- email: rikiiyer@berkeley.edu 
+  image: "assets/staff/ritvik_iyer.jpg"
   oh_info:
   - "OH: TBA"
-  name: Xingyu Jin
+  name: Ritvik Iyer
+  
+- email: wangyimeng98@berkeley.edu
+  image: "assets/staff/yimeng_kobe_wang.jpg"
+  oh_info:
+  - "OH: TBA"
+  name: Yimeng(Kobe) Wang
