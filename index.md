@@ -4,9 +4,9 @@ title: "Syllabus"
 page_class: content-wide
 ---
 
-This syllabus is under development and is subject to change. Unless otherwise noted, lecture videos will be released at least two days before the corresponding discussion session. Due dates for homework and lab assignments will be announced shortly.
+This syllabus is under development and is subject to change. Due dates for homework and lab assignments will be announced shortly.
 
-**If you are requesting an extension for a HW or lab assignment (due to DSP accommodations), please email any of the GSIs prior to the original deadline date.** Please avoid emailing the professors.
+**If you are requesting an extension for a HW or lab assignment (due to DSP accommodations), please email the course email (TBA) prior to the original deadline date.** Please avoid emailing the professors.
 
 <script>
   function get_buttom() {
