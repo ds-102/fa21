@@ -18,7 +18,7 @@ All course announcements will be made on Ed.
 
 ## Important Information
 
-**Lecture:** Tuesdays and Thursdays from 2:00 PM to 3:30 PM remote on Zoom. See Ed posts (link coming soon) for the zoom link.
+**Lecture:** Tuesdays and Thursdays from 2:00 PM to 3:30 PM remote on Zoom. See Ed posts (link coming soon) for the zoom link. Lecture videos will be recorded and links will be available on the course website within a few hours after lecture.
 
 **Discussion session:** Wednesdays in-person (with virtual sessions for those unable to be on campus: more info TBA). See Ed posts (link coming soon) for more information on this. Attendance is highly encouraged but not mandatory.
 
