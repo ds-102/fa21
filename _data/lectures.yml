@@ -28,6 +28,9 @@
 # for d in days[(days.dayofweek == 1) | (days.dayofweek == 3)]:
 #     print(str(d.month) + "/" + str(d.day) + "/" + str(d.year))
 
+- date: Tuesday 8/24/21
+  topic: (No Class)
+
 - date: Thursday 8/26/21
   topic: Course Overview, Making Decisions Under Uncertainty
   description:
@@ -46,7 +49,7 @@
   description: We define p-values, introduce the problem of multiple hypothesis testing, and talk about the Bonferroni and Benjamini-Hochberg procedures for addressing it.
   
 - date: Tuesday 9/7/21
-  topic: Online False Discovery Rate Control & ROC curves
+  topic: Error Rates for Decisions
   description: 
  
 - date: Thursday 9/9/21

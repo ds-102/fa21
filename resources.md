@@ -32,9 +32,23 @@ In this class we will be using several key libraries.  Here are their documentat
   * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) ([Available as eBook for Berkeley students](http://proquest.safaribooksonline.com/9781449323592)).  This book provides a good reference for the Pandas library.
 
 
+## Textbooks from Previous Data Science Courses
+
+Data 102 builds on material taught in previous data science courses. You may find the textbooks from those courses helpful:
+
+* **[Data 8](https://inferentialthinking.com/chapters/intro.html)**
+* **[Data 100](https://www.textbook.ds100.org/)**
+* **[Data 140](http://prob140.org/textbook/content/README.html)** (also known as Prob 140): even if you took one of the other probability prerequisite courses, this book can be a helpful reference.
+
 ## Reading Resources
 
-Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for this subject. Instead, you can find useful reading among the following collection of books, all of which are free.
+Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for this subject. The instructors are in the process of developing an online textbook for the course, but this is still a work in progress. You can find useful reading among the following collection of books, all of which are free.
+
+* **[Patterns, Predictions, and Actions](https://mlstory.org/)** This book is a great introduction to many of the topics we cover in this course, as well as several other important topics in advanced machine learning and data science. The following chapters are particularly relevant to this class:
+  * Chapter 2 covers decision theory.
+  * Chapter 8 covers datasets: even though we won't be talking about this much in Data 102, this is an extremely important topic to know about for doing real-world data science.
+  * Chapters 9 and 10 cover causal inference.
+  * Chapter 12 covers reinforcement learning.
 
 * **[All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/)** This book is a great, broad introduction to mathematical statistics. It begins with probability concepts (e.g. Bayes’ theorem), works through many statistical inference topics (e.g. hypothesis testing, decision theory, and bootstrap, and also includes statistical modeling (e.g. regression and causal inference). The textbook as a whole covers many more ideas from statistics than will be used in or needed for this course, but students may still find it useful to reference specific topics within it to supplement ideas covered in lecture or review ideas from previous courses. For example:
   * Chapters 1-3 review some background ideas about probability and random variables
@@ -50,6 +64,8 @@ Because data science is a relatively new and rapidly evolving discipline there i
   * Chapter 4 discusses maximum likelihood estimation
   * Chapter 15 provides additional details about multiple hypothesis testing and false discovery rate control
   * There is also one section each on logistic regression, the EM algorithm, the bootstrap, conjugate priors, and Gibbs sampling
+
+* **[Causal Inference: The Mixtape](https://mixtape.scunning.com/)** This book is a great introduction and reference for all things causal inference.
 
 * **[Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)** (Free online PDF) This book is a great reference for the machine learning and some of the statistics material in the class
 
