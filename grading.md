@@ -9,7 +9,7 @@ Our goal in teaching this class is to help you learn the material. Our grading p
 
 You will be assessed through the following assignments:
 
-* ~13 weekly vitamins
+* (about) 14 weekly vitamins
 * 6 homework assignments
 * 11 lab assignments
 * 2 midterms
@@ -29,10 +29,16 @@ Grades will be assigned using the following weighted components:
 
 ### Grading criteria
 
-* Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 10 minutes to complete. Your two lowest vitamin scores will be dropped.
+* Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 15 minutes to complete. Your two lowest vitamin scores will be dropped.
 * Homework will be graded on completion and correctness. No assignment may be dropped, but we will have a slip day policy (see below).
 * Lab assignments will be graded on completion and correctness, but all test cases for autograded questions will be public. Your two lowest lab scores will be dropped.
 * A grading rubric and more details regarding the final project will be released later in the semester.
+
+## Exams
+
+There will be two midterms on October 5, 2021 and November 18, 2021. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. We will not accept any conflicts after the drop deadline (except for emergencies).
+
+The exams will be proctored, and will tentatively be held in person. Any remote exams will also be proctored, using a protocol similar to CS161.
 
 ## Slip Days
 
@@ -42,7 +48,7 @@ After you have used your slip-time budget, any assignment handed in late will be
 
 We know that we’re still in an unprecedented global pandemic and economic downturn: If you **already use up your 5 slip days** in the semester and you are facing extenuating circumstances or unusual hardship, you can contact us for extra slip days. We’re here to help!
 
-For DSP slip day policies, please refer to the our course Ed site.
+For information on DSP accommodations, please refer to the course Ed site.
 
 
 ## Collaboration Policy
@@ -52,3 +58,9 @@ Data science is a collaborative activity. While you may talk with others about t
 ## We Want You to Succeed
 
 If you are feeling overwhelmed, visit our office hours and talk with us. We know college can be stressful and we want to help you succeed!
+
+## Campus Honor Code
+
+As a member of the Berkeley community, we expect you to follow the Berkeley Honor Code:
+
+“As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others.”

@@ -18,13 +18,11 @@ All course announcements will be made on Ed.
 
 ## Important Information
 
-**Lecture:** Tuesdays and Thursdays from 2:00 PM to 3:30 PM remote on Zoom. See Ed posts (link coming soon) for the zoom link
+**Lecture:** Tuesdays and Thursdays from 2:00 PM to 3:30 PM remote on Zoom. See Ed posts (link coming soon) for the zoom link.
 
-**Discussion session:** Wednesdays in-person (virtual sessions might be held). See Ed posts (link coming soon) for more information on this.
+**Discussion session:** Wednesdays in-person (with virtual sessions for those unable to be on campus: more info TBA). See Ed posts (link coming soon) for more information on this. Attendance is highly encouraged but not mandatory.
 
-  * Attendance is highly encouraged but not mandatory. An alternate discussion time slot will be arranged for students with conflicts or time zone issues with the default time if there is a popular demand.
-
-**Lab:** Mondays in-person. You can complete lab assignments on your own time but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff. 
+**Lab:** Mondays in-person (with virtual sessions for those unable to be on campus: more info TBA). You can complete lab assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff.
 
 **Contacting Course Staff**: The best way to contact course staff is using Ed, using a private post as needed: we'll be checking it regularly and should respond to most questions within a day or less. If you need to reach out to course staff and Ed isn't suitable, you can email data102@berkeley.edu, and you should get a response within a few days. **Please avoid emailing professors or GSIs directly!**
 
