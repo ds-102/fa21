@@ -59,3 +59,7 @@ While we are working to make this class widely accessible we currently require t
 ## TAs
 
 {% include staff_entries.html %}
+
+## Readers
+
+{% include reader_entries.html %}
