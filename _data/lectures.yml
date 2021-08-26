@@ -39,7 +39,8 @@
     - (Optional) Discussion by nine commentators [1](https://hdsr.mitpress.mit.edu/pub/djb16hzl?readingCollection=72befc2a), [2](https://hdsr.mitpress.mit.edu/pub/kyzf7fjv?readingCollection=72befc2a), [3](https://hdsr.mitpress.mit.edu/pub/rim3pvdw?readingCollection=72befc2a), [4](https://hdsr.mitpress.mit.edu/pub/pqddq8u5?readingCollection=72befc2a), [5](https://hdsr.mitpress.mit.edu/pub/wiq01ru6?readingCollection=72befc2a), [6](https://hdsr.mitpress.mit.edu/pub/pjebp7io?readingCollection=72befc2a), [7](https://hdsr.mitpress.mit.edu/pub/plto69bh?readingCollection=72befc2a)
     - (Optional) [Dr. AI or: How I Learned to Stop Worrying and Love Economics](https://hdsr.mitpress.mit.edu/pub/2imtstfu?readingCollection=72befc2a)
     - (Optional) [What are the most important statistical ideas of the past 50 years?](https://arxiv.org/pdf/2012.00174)
-  slides: [Slides](https://docs.google.com/presentation/d/12RLemXmTzKGg16rl2KWXm3rYRTz7AVSsUtVyE9TbNZ8/edit?usp=sharing)
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/12RLemXmTzKGg16rl2KWXm3rYRTz7AVSsUtVyE9TbNZ8/edit?usp=sharing)
 
 - date: Tuesday 8/31/21
   topic: Binary Decision-Making
