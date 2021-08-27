@@ -53,7 +53,7 @@ For information on DSP accommodations, please refer to the course Ed site.
 
 ## Collaboration Policy
 
-Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from the homeworks and labs will likely be covered on both the midterm and final. We will be following the EECS departmental policy on Academic Honesty, so be sure you are familiar with it.	
+Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from the homeworks and labs will likely be covered on both of the midterms. We will be following the EECS departmental policy on Academic Honesty, so be sure you are familiar with it.	
 
 ## We Want You to Succeed
 
