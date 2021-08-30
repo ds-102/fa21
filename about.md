@@ -14,7 +14,7 @@ This class is listed as [Data 102](https://classes.berkeley.edu/content/2021-fal
 
 [data102@berkeley.edu](data102@berkeley.edu)
 
-If you are requesting extensions or if you have personal concerns, please send a email to the email address above.  
+If you are requesting extensions or if you have personal concerns, please contact us via the email address above.  
 
 ## Announcements
 
