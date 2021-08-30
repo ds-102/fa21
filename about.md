@@ -12,7 +12,7 @@ This class is listed as [Data 102](https://classes.berkeley.edu/content/2021-fal
 
 ## Course email address
 
-data102@berkeley.edu
+[data102@berkeley.edu](data102@berkeley.edu)
 
 If you are requesting extensions or if you have personal concerns, please send a email to the email address above.  
 
