@@ -30,7 +30,7 @@ All course announcements will be made on Ed.
 
 Please see [Ed posts](TBA) for Zoom links for remote OHs.
 
-<iframe src="https://calendar.google.com/calendar/u/0?cid=ZGF0YTEwMkBiZXJrZWxleS5lZHU" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src=""https://calendar.google.com/calendar/embed?src=c_i6vcnkqpt1pl5rfp8dsqle1kus%40group.calendar.google.com&ctz=America%2FLos_Angeles"" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <!-- <iframe src="https://calendar.google.com/calendar/embed?src=c_i6vcnkqpt1pl5rfp8dsqle1kus%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 <!-- <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_j925o99uns4c0dmr73rief7274%40group.calendar.google.com&amp;src=berkeley.edu_9orffahki30fjqmfpuulengrk0@group.calendar.google.com&amp;color=%23BE6D00&amp;ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
