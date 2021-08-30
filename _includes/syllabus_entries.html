@@ -79,7 +79,6 @@
         {% endfor %}
       </strong></p>
       {% endif %}
-
       {% if lecture.links %}
       <p>
         [
@@ -92,7 +91,6 @@
         ]
       </p>
       {% endif %}
-
       {% if lecture.assignment %}
         <h4 class="lecture__assignment">
           {{ lecture.assignment | markdownify }}
@@ -118,6 +116,14 @@
       <td class="lecture__video"> </td>
     {% endif %}
 
+    <!-- Discussion Recordings Column -->
+    {% if lecture.recording %}
+      <td class="disc__recording">
+          <a href="{{ lecture.recording }}">Video</a>
+      </td>
+    {% else %}
+      <td class="disc__recording"> </td>
+    {% endif %}
 
     <!-- Discussion Materials (worksheet, solutions) Column -->
     {% if lecture.discussion %}
@@ -135,16 +141,6 @@
       </td>
     {% else %}
       <td class="lab__info"> </td>
-    {% endif %}
-	  
-    
-    <!-- Vitamin Column -->
-    {% if lecture.vitamin %}
-      <td class="vitamin">
-          <a href="{{ lecture.vitamin }}">Video</a>
-      </td>
-    {% else %}
-      <td class="vitamin"> </td>
     {% endif %}
 
     <!-- Homework Column -->
