@@ -46,6 +46,8 @@
 - date: Tuesday 8/31/21
   topic: Binary Decision-Making
   description: We discuss concepts like TPR, FPR and FDP.
+  lab: |
+    - [Lab 01](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab&branch=master)
 
 - date: Thursday 9/2/21
   topic: P-Values and Multiple Hypothesis Testing
