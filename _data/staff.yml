@@ -1,29 +1,39 @@
 - email: alice_cima@berkeley.edu
   image: "assets/staff/alice.jpeg"
   oh_info:
-  - "OH: TBA"
+  - "Disc: Wednesdays 12pm-1pm @ Virtual, 1pm-2pm @ Evans 9, 7pm-8pm @ Virtual"
+  - "Lab: Mondays 12pm-1pm @ Hearst Field Annex B5, 1pm-2pm @ Etcheverry 3108"
+  - "OH: Mondays 2pm-3pm @ Moffitt 145"
   name: Alice Cima
 
 - email: yiwendai99@berkeley.edu 
   image: "assets/staff/ewen.jpeg"
   oh_info:
-  - "OH: TBA"
+  - "Disc: Wednesdays 3pm-4pm @ Evans 3, 4pm-5pm @ Wheeler 202"
+  - "Lab: Mondays 3pm-5pm @ Virtual"
+  - "OH: Fridays 3pm-5pm @ Moffitt 145"
   name: Ewen Dai
 
 - email: rdoshi99@berkeley.edu
   image: "assets/staff/ruhi.jpeg"
   oh_info:
-  - "OH: TBA"
+  - "Disc: Wednesdays 2pm-3pm @ Evans 70"
+  - "Lab: Mondays 4pm-5pm @ Etcheverry 3111"
+  - "OH: Mondays 5pm-6pm @ Virtual, Thursdays 10am-11am @ Virtual"
   name: Ruhi Doshi
 
 - email: rikiiyer@berkeley.edu 
   image: "assets/staff/ritvik.jpeg"
   oh_info:
-  - "OH: TBA"
+  - "Disc: Wednesdays 9am-10am @ Hearst Field Annex B5"
+  - "Lab: Mondays 9am-10am @ Hearst Field Annex B5"
+  - "OH: Tuesdays 9am-11am @ Evans B6, Fridays 12pm-2pm @ Moffitt 145"
   name: Ritvik Iyer
   
 - email: wangyimeng98@berkeley.edu
   image: "assets/staff/kobe.jpeg"
   oh_info:
-  - "OH: TBA"
+  - "Disc: Wednesdays 9am-10am @ Hildebrand 51, 10am-11am @ Evans 9"
+  - "Lab: Mondays 10am-12pm @ Evans B6"
+  - "OH: Thursdays 7-9pm PT @ Virtual"
   name: Yimeng(Kobe) Wang
