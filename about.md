@@ -10,6 +10,11 @@ This course develops the probabilistic foundations of inference in data science.
 
 This class is listed as [Data 102](https://classes.berkeley.edu/content/2021-fall-data-c102-001-lec-001).
 
+## Course email address
+
+data102@berkeley.edu
+
+If you are requesting extensions or if you have personal concerns, please send a email to the email address above.  
 
 ## Announcements
 
