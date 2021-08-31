@@ -51,7 +51,8 @@
 
 - date: Thursday 9/2/21
   topic: P-Values and Multiple Hypothesis Testing
-  description: We define p-values, introduce the problem of multiple hypothesis testing, and talk about the Bonferroni and Benjamini-Hochberg procedures for addressing it.
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1PRdnyysS3bIzRcsOldH4i655FXEmtxM2o_5_fJhY6IU/edit?usp=sharing)
   
 - date: Tuesday 9/7/21
   topic: Error Rates for Decisions
