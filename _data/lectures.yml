@@ -52,7 +52,9 @@
     - [Disc 1](assets/discussion/disc1.pdf)
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1PRdnyysS3bIzRcsOldH4i655FXEmtxM2o_5_fJhY6IU/edit?usp=sharing)
-  video: https://youtu.be/BHlTjmY6RiY
+  video: https://youtu.be/QzOr11xw96M
+  resources: |
+    - (Optional) [The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
 - date: Thursday 9/2/21
   topic: P-Values and Multiple Hypothesis Testing
