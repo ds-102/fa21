@@ -11,7 +11,7 @@ You will be assessed through the following assignments:
 
 * (about) 14 weekly vitamins
 * 6 homework assignments
-* 11 lab assignments
+* 12 lab assignments
 * 2 midterms
 * 1 final project
 
