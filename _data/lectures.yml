@@ -90,6 +90,9 @@
 - date: Tuesday 9/14/21
   topic: Overview of Bayesian Modeling
   description:
+  slides: |
+    - [Slides](assets/slides/lecture6.pdf)
+    - [Demo Notebook](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flecture%2Flecture06%2Fbayes_intro.ipynb&branch=master)
   lab: |
     - [Lab 2](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab02%2Flab02.ipynb&branch=master)
 
