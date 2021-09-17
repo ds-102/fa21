@@ -106,6 +106,7 @@
   description:
   slides: |
     - [Slides](https://drive.google.com/file/d/1pIJmS8wNxcD8ihv4UKPSBquN9PEGSnz0/view?usp=sharing)
+  video: https://youtu.be/CE7lnkPEWhQ
 
 - date: Tuesday 9/21/21
   topic: Rejection Sampling and Markov Chains
