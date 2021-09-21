@@ -113,6 +113,7 @@
   description:
   slides: |
     - [Slides](assets/slides/lecture8.pdf)
+    - [demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds102-fa21&urlpath=tree%2Fds102-fa21%2Flecture%2Flecture09%2Frejection_sampling.ipynb&branch=master)
   lab: |
     - [Lab 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab03%2Flab03.ipynb&branch=master)
 
