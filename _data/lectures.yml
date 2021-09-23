@@ -121,6 +121,9 @@
 - date: Thursday 9/23/21
   topic: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
   description:
+  slides: |
+    - [Slides]()
+    - [demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flecture%2Flecture10%2Fgibbs_sampling.ipynb&branch=master)
   
 - date: Tuesday 9/28/21
   topic: Regression and GLMs
