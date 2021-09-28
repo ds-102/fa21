@@ -131,7 +131,8 @@
   description:
   slides: |
     - [Slides](assets/slides/bayes_regression_slides_fa21.pdf)
-    - [demo](https://data102.datahub.berkeley.edu/user/jsteinhardt/notebooks/sp21/lecture/lecture10/glms.ipynb)
+    - [GLM demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture10/glms.ipynb)
+    - [Regression review explainer](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture10/glms.ipynb)
   lab: |
     - [Lab 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab04%2Flab04.ipynb&branch=master)
 
