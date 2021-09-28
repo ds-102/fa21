@@ -1,7 +1,7 @@
 - email: alice_cima@berkeley.edu
   image: "assets/staff/alice.jpeg"
   oh_info:
-  - "Disc: Wednesdays 12pm-1pm @ Virtual, 1pm-2pm @ Evans 9, 7pm-8pm @ Virtual"
+  - "Disc: Wednesdays 10pm-11pm @ Evans 9, 12pm-1pm @ Virtual, 1pm-2pm @ Evans 9"
   - "Lab: Mondays 12pm-1pm @ Hearst Field Annex B5, 1pm-2pm @ Etcheverry 3108"
   - "OH: Mondays 2pm-3pm @ Moffitt 145, Wednesdays 6pm-7pm @ Virtual"
   name: Alice Cima
@@ -25,7 +25,7 @@
 - email: rikiiyer@berkeley.edu 
   image: "assets/staff/ritvik.jpeg"
   oh_info:
-  - "Disc: Wednesdays 9am-10am @ Hearst Field Annex B5"
+  - "Disc: Wednesdays 9am-10am @ Hearst Field Annex B5, 7pm-8pm @ Virtual"
   - "Lab: Mondays 9am-10am @ Hearst Field Annex B5"
   - "OH: Tuesdays 9am-11am @ Virtual, Fridays 12pm-2pm @ Moffitt 145"
   name: Ritvik Iyer
@@ -33,7 +33,7 @@
 - email: wangyimeng98@berkeley.edu
   image: "assets/staff/kobe.jpeg"
   oh_info:
-  - "Disc: Wednesdays 10am-11am @ Evans 9, 12-1pm @ Virtual"
+  - "Disc: Wednesdays 12-1pm @ Virtual"
   - "Lab: Mondays 10am-12pm @ Evans B6"
   - "OH: Thursdays 7-9pm PT @ Virtual"
   name: Yimeng(Kobe) Wang
