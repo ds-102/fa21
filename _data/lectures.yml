@@ -135,6 +135,7 @@
     - [Regression review explainer](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture10/glms.ipynb)
   lab: |
     - [Lab 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab04%2Flab04.ipynb&branch=master)
+  video: https://youtu.be/43iowJtbwfI
 
 - date: Thursday 9/30/21
   topic: Model checking for GLMs
