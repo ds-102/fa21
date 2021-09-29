@@ -107,6 +107,8 @@
   slides: |
     - [Slides](https://drive.google.com/file/d/1pIJmS8wNxcD8ihv4UKPSBquN9PEGSnz0/view?usp=sharing)
   video: https://youtu.be/CE7lnkPEWhQ
+  homework: |
+    - [HW 2 released](assets/homework/hw02.zip)
 
 - date: Tuesday 9/21/21
   topic: Rejection Sampling and Markov Chains
@@ -116,6 +118,8 @@
     - [demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flecture%2Flecture09%2Frejection_sampling.ipynb&branch=master)
   lab: |
     - [Lab 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab03%2Flab03.ipynb&branch=master)
+  discussion: |
+    - [Disc 4](assets/discussion/disc4.pdf)
   video: https://youtu.be/eDfP9EYtFgI
 
 - date: Thursday 9/23/21
@@ -135,6 +139,8 @@
     - [Regression review explainer](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture10/glms.ipynb)
   lab: |
     - [Lab 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab04%2Flab04.ipynb&branch=master)
+  discussion: |
+    - [Disc 5](assets/discussion/disc5.pdf)
   video: https://youtu.be/43iowJtbwfI
 
 - date: Thursday 9/30/21
