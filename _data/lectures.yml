@@ -146,6 +146,9 @@
 - date: Thursday 9/30/21
   topic: Model checking for GLMs
   description:
+  slides: |
+    - [Slides](assets/slides/frequentist_regression_slides_fa21.pdf)
+    - [demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flecture%2Flecture11%2Fposterior_predictive_checks.ipynb&branch=master)
   
 - date: Tuesday 10/5/21
   topic: Midterm I
