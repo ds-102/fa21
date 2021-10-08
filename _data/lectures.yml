@@ -160,7 +160,8 @@
   topic: Uncertainty quantification for GLMs 
   slides: |
     - [Slides](assets/slides/bootstrap_slides_fa21.pdf)
-    - [demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flecture%2Flecture12%2Fbootstrap.ipynb&branch=master)
+    - [demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flecture%2Flecture12%2Fbootstrap_new.ipynb&branch=master)
+    - Required reading for 10/12, pgs 1-11, [Statistical Modeling, The Two Cultures, by Leo Breiman](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf)
   video: https://youtu.be/pvXOJyH1KRY
   
 - date: Tuesday 10/12/21
