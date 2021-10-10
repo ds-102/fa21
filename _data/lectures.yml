@@ -166,6 +166,8 @@
   
 - date: Tuesday 10/12/21
   topic: Nonparametric Methods and Neural Networks
+  lab: |
+    - [Lab 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab05%2Flab05_student.ipynb&branch=master)
  
 - date: Thursday 10/14/21
   topic: Neural Networks and Interpretability
