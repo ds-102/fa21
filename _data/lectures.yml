@@ -176,6 +176,10 @@
  
 - date: Thursday 10/14/21
   topic: Neural Networks and Interpretability
+  slides: |
+    - [Slides](https://docs.google.com/presentation/d/1CIPGXUEvA6Uh0Wg4SP3Dj1jV3YXTTKnDrdhKkprr9W4/edit?usp=sharing)
+    - [Neural networks notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture14/02_NNs_Autodiff_backprop.ipynb)
+    - [Interpretability demo (demo only, no notes)](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture15/03_interp_demo.ipynb)
  
 - date: Tuesday 10/19/21
   topic: Causal Inference I
