@@ -187,6 +187,11 @@
   topic: Causal Inference I
   lab: |
     - [Lab 6](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab06%2Flab06_student_version.ipynb&branch=master)
+  slides: |
+    - [Slides](https://docs.google.com/presentation/d/1IrOuyZQhtlEqmNETv2_iAfYfGwmzRILmugZfGAWXeeI/edit?usp=sharing)
+    - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/01_association_correlation_causation.ipynb)
+    - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/02_quantifying_association.ipynb)
+    - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/03_causality.ipynb)
 
 - date: Thursday 10/21/21
   topic: Causal Inference II
