@@ -192,6 +192,8 @@
     - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/01_association_correlation_causation.ipynb)
     - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/02_quantifying_association.ipynb)
     - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/03_causality.ipynb)
+    - See Ed for additional resources on causal inference
+  video: https://youtu.be/Gr0CL67PGDc
 
 - date: Thursday 10/21/21
   topic: Causal Inference II
