@@ -162,14 +162,15 @@
     - [Slides](assets/slides/bootstrap_slides_fa21.pdf)
     - [demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flecture%2Flecture12%2Fbootstrap_new.ipynb&branch=master)
     - Required reading for 10/12, pgs 1-11, [Statistical Modeling, The Two Cultures, by Leo Breiman](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf)
+  homework: |
+    - [HW 3 released](assets/homework/hw03.zip)
   video: https://youtu.be/pvXOJyH1KRY
   
 - date: Tuesday 10/12/21
   topic: Nonparametric Methods and Neural Networks
   lab: |
     - [Lab 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab05%2Flab05_student.ipynb&branch=master)
-  homework: |
-    - [HW 3 released](assets/homework/hw03.zip)
+  
     discussion: |
     - [Disc 6](assets/discussion/disc6.pdf)
   slides: |
@@ -207,13 +208,14 @@
     - [Slides](https://docs.google.com/presentation/d/1OFUjUQVwfYjXHvDuPRasZSbyJAbWWEu1u0QVho2-I-Q/edit?usp=sharing)
     - [Notes: Causality and potential outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/03_causality.ipynb)
     - [Notes: Instrumental variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture17/instrumental_variable_notes.ipynb)
+  homework: |
+    - [HW 4 released](assets/homework/hw04.zip)
   video: https://youtu.be/Uu4V81JgTNo
 
 
 - date: Tuesday 10/26/21
   topic: Causal Inference III
-  homework: |
-    - [HW 4 released](assets/homework/hw04.zip)
+  
   
  
 - date: Tuesday 10/28/21
