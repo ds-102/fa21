@@ -168,6 +168,8 @@
   topic: Nonparametric Methods and Neural Networks
   lab: |
     - [Lab 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab05%2Flab05_student.ipynb&branch=master)
+  homework: |
+    - [HW 3 released](assets/homework/hw03.zip)
   slides: |
     - [Slides](https://docs.google.com/presentation/d/12rlwo5ZTsUJ5wYqaF7ZDHQqAqF1zdsP6JF-PxRtl-_U/edit?usp=sharing)
     - [Nonparametric methods notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture14/01_nonparametric.ipynb)
@@ -206,6 +208,9 @@
 
 - date: Tuesday 10/26/21
   topic: Causal Inference III
+  homework: |
+    - [HW 4 released](assets/homework/hw04.zip)
+  
  
 - date: Tuesday 10/28/21
   topic: Concentration inequalities
