@@ -170,6 +170,8 @@
     - [Lab 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab05%2Flab05_student.ipynb&branch=master)
   homework: |
     - [HW 3 released](assets/homework/hw03.zip)
+    discussion: |
+    - [Disc 6](assets/discussion/disc6.pdf)
   slides: |
     - [Slides](https://docs.google.com/presentation/d/12rlwo5ZTsUJ5wYqaF7ZDHQqAqF1zdsP6JF-PxRtl-_U/edit?usp=sharing)
     - [Nonparametric methods notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture14/01_nonparametric.ipynb)
@@ -189,6 +191,8 @@
   topic: Causal Inference I
   lab: |
     - [Lab 6](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab06%2Flab06_student_version.ipynb&branch=master)
+  discussion: |
+    - [Disc 7](assets/discussion/disc7.pdf)
   slides: |
     - [Slides](https://docs.google.com/presentation/d/1IrOuyZQhtlEqmNETv2_iAfYfGwmzRILmugZfGAWXeeI/edit?usp=sharing)
     - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture16/01_association_correlation_causation.ipynb)
