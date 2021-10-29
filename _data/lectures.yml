@@ -226,7 +226,9 @@
 - date: Thursday 10/28/21
   topic: Concentration inequalities
   slides: |
-    - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture19/concentration.ipynb)
+    - [Lecture notes notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture19/concentration.ipynb)
+    - [Written notes](https://drive.google.com/file/d/1DxshhXnIDp1_XwCCW9i346bFsZTim3Md/view?usp=sharing)
+  video:  https://youtu.be/-E11eo7rsgc
   
 - date: Tuesday 11/2/21
   topic: Bandits I
