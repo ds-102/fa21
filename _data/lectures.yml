@@ -232,6 +232,8 @@
   
 - date: Tuesday 11/2/21
   topic: Bandits I
+  lab: |
+    - [Lab 8](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab08%2Flab08_student_version.ipynb&branch=master)
   
 - date: Thursday 11/4/21
   topic: Bandits II
