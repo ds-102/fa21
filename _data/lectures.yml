@@ -234,7 +234,9 @@
   topic: Bandits I
   slides: |
     - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture20/bandits_notes.ipynb)
+    - [Written notes](https://drive.google.com/file/d/1rkjh83eSI3II8Yoe4wsIWTiAkPx6hc4x/view?usp=sharing)
     - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa21&subPath=lecture/lecture20/MAB_demo.ipynb)
+  video: https://youtu.be/Q1Uh1Rz43JE
   lab: |
     - [Lab 8](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab08%2Flab08_student_version.ipynb&branch=master)
   
