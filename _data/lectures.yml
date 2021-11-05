@@ -242,6 +242,9 @@
   
 - date: Thursday 11/4/21
   topic: Bandits II
+  slides: |
+    - [Lecture notes](https://drive.google.com/file/d/100n_OlZE4n6VUPCuk2VZNjT4CGlJLmCF/view?usp=sharing)
+  video: https://youtu.be/4U1pz0fMSjU
 
 - date: Tuesday 11/9/21
   topic: Reinforcement Learning I
