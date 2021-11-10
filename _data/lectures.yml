@@ -251,6 +251,7 @@
   slides: |
     - [Slides](assets/slides/lecture22.pdf)
     - [Notes](assets/notes/notes22.pdf)
+  video: https://youtu.be/344GCjMINDg
   lab: |
     - [Lab 9](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab09%2Flab09_student_version.ipynb&branch=master)
   
