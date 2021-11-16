@@ -260,6 +260,9 @@
 
 - date: Tuesday 11/16/21
   topic: Reinforcement Learning II
+  slides: |
+    - [Notes](assets/notes/notes23.pdf)
+    - [Whiteboard notes (2020)](assets/notes/notes23-whiteboard.pdf)
 
 - date: Thursday 11/18/21
   topic: Midterm II
