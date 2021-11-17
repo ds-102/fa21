@@ -262,7 +262,9 @@
   topic: Reinforcement Learning II
   slides: |
     - [Notes](assets/notes/notes23.pdf)
+    - [Whiteboard notes](https://drive.google.com/file/d/1fNxzM2-DaP1FtMw00rFq5zapUu62CRqI/view?usp=sharing)
     - [Whiteboard notes (2020)](assets/notes/notes23-whiteboard.pdf)
+  video: https://youtu.be/xt2XxmBSnKo
   lab: |
     - [Lab 10](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab10%2Flab10_student_version.ipynb&branch=master)
 
