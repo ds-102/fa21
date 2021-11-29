@@ -282,6 +282,8 @@
   
 - date: Tuesday 11/30/21
   topic: Robustness and generalization
+  lab: | 
+      - [Lab 11](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab11%2Flab11_student_version.ipynb&branch=master)
   
 - date: Thursday 12/2/21 
   topic: Matching Markets and Game Theory / Course Wrap-up
