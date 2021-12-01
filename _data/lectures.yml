@@ -284,6 +284,7 @@
   topic: Robustness and generalization
   slides: |
     - [Slides](https://docs.google.com/presentation/d/1-PHWmgtxIIBNhwaOFkMFmVS9QkBXGQre9PFINaHIXn8/edit#slide=id.g10502dd05dc_0_376)
+  video: https://youtu.be/EEWs6LFpaJk
   lab: | 
       - [Lab 11](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa21&urlpath=tree%2Ffa21%2Flab%2Flab11%2Flab11_student_version.ipynb&branch=master)
   
